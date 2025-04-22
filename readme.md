@@ -1,2 +1,2 @@
- git branching and merging exercice
- this repo demonstratres Git branching
+learning Git branchs 
+this repo demonstrates Git branching
